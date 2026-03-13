@@ -22,7 +22,7 @@ This project demonstrates basic concepts of **Java programming, string processin
 
 ## 🛠 Technologies Used
 
-* **Java**
+* Java
 * Java Collections Framework
 * String Processing
 * Scanner class for user input
