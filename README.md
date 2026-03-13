@@ -141,17 +141,6 @@ Through this project, the following Java concepts are practiced:
 * Conditional statements
 * Basic algorithm logic
 
----
-
-## 🔮 Future Improvements
-
-Possible enhancements for this project include:
-
-* Resume upload using **PDF files**
-* **Graphical User Interface (GUI)**
-* Resume **score visualization graph**
-* **AI-based keyword detection**
-* Job role matching system
 
 ---
 
