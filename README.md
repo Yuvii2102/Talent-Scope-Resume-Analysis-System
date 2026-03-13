@@ -1,4 +1,4 @@
-# TalentScope – AI Resume Analyzer (Java)
+# Talent-Scope – AI Resume Analyzer (Java)
 
 ## 📌 Project Overview
 
