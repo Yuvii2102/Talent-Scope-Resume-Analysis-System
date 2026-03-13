@@ -71,25 +71,25 @@ public class ResumeAnalyzer
     }
 }
 
-Example Run
+                     * Example Run
 
-Input:
+- Input:
 
-I know Java, HTML, CSS and SQL. I built a web project.
+  I know Java, HTML, CSS and SQL. I built a web project.
 
-Output:
+- Output:
 
-===== ANALYSIS RESULT =====
+ ANALYSIS RESULT
 
-Resume Score: 32/100
+ Resume Score: 32/100
 
-Skills Found:
+ Skills Found:
 - java
 - html
 - css
 - sql
 
-Missing Important Skills:
+ Missing Important Skills:
 - python
 - javascript
 - react
@@ -99,5 +99,4 @@ Missing Important Skills:
 - git
 - linux
 
-===== SUGGESTIONS =====
-Add more technical skills.
+
